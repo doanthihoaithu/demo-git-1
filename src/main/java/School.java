@@ -1,3 +1,3 @@
 public class School {
-    private String color;
+    private String color = "red";
 }
